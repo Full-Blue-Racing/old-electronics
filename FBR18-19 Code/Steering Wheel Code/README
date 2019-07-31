@@ -1,0 +1,18 @@
+This is the code for the steering wheel,
+
+The single_test was for the breadboarded screen and LEDs, this worked in
+isolation with the code generating rpm and clt values to be displayed
+
+The other two pieces of code went on two arduinos. One was in the dash and
+had the can circuitry, it then extracted the relevant information and sent 
+it over a serial link to another arduino in the steering wheel which controlled
+the screen and the LEDs. 
+
+We encountered two problems:
+-Serial is annoying to get working between two arduinos (basically like
+working with an incomplete library). This resulted in the serial communications
+interfering with the screen (believed to be due to using the same register to
+communicate with each device) so we only ran the RPM LEDs
+-The CAN circuitry in the dash was never tested and it never worked, this 
+could be due to a multitude of things but the learning point is to test
+PCBs you have designed, even if it worked on a breadboard
