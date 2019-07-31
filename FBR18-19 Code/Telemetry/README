@@ -1,0 +1,12 @@
+https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/
+
+This is a tutorial on using the NRF24l01 radio modules to transmit data,
+
+These have been tested roughly and are suitable for the distances we want to use
+but they have not been tested with the engine running (emf noise might be 
+significant)
+
+Might be worth doing research on other radio modules/solutions that we can use
+before you begin coding but if possible use these as they are very cheap 
+(will require extensive testing first though - hint to get them to work is
+to encase the electronics is a faraday shield)
