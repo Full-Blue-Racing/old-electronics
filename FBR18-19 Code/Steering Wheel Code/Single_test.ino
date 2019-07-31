@@ -12,6 +12,8 @@
   Written by Limor Fried/Ladyada for Adafruit Industries.
   MIT license, all text above must be included in any redistribution
  ****************************************************/
+ 
+ // The above is the screen used
 
 #include <SPI.h>
 #include "Adafruit_GFX.h"
