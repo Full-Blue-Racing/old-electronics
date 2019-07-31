@@ -6,6 +6,8 @@
  *                        *
  * c.omargamal@gmail.com  *
  **************************/
+ 
+ // The above is credit to the guy who wrote the tutorial https://www.instructables.com/id/Yes-We-CAN-BUS-With-Arduino-in-30-Seconds/
 
 #include <SPI.h>          //SPI is used to talk to the CAN Controller
 #include <mcp_can.h>
