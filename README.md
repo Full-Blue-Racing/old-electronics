@@ -27,6 +27,8 @@ use the web interface.
 
 # Best Practices
 
+**No spaces in file names or folder names please**
+
 1. Use branches
 
 Each of the following tasks are on a separate 
