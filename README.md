@@ -3,7 +3,6 @@
 This repo houses all the code the car needs to run, separated into steering 
 wheel, telemetry, and CAN bus files.
 
----
 
 # Git Gud
 
@@ -63,9 +62,12 @@ in the next commit.
 
 ```git commit -m "Commit message here"``` - commits file to the local branch 
 with the commit message - please make the commit message meaningful so it is 
-easier to backtrack (*Not* ```Add new file```) 
+easier to backtrack (**Not** ```Add new file```) 
 
----
+```git push origin <name of branch>``` - push your local commits to the remote 
+repo on the named branch. Note that on the first push git may require you to 
+set the upstream branch with the flag ```--set-upstream-to```
+
 
 # Tasks
 
