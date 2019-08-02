@@ -27,7 +27,9 @@ use the web interface.
 
 # Best Practices
 
-**No spaces in file names or folder names please**
+### No spaces in file names or folder names please
+
+**No direct pushing/committing on the master branch**
 
 1. Use branches
 
