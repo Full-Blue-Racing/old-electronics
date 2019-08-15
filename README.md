@@ -3,7 +3,6 @@
 This repo houses all the code the car needs to run, separated into steering 
 wheel, telemetry, and CAN bus files.
 
-
 # Git Gud
 
 [Git Crash Course](https://rogerdudler.github.io/git-guide/)
@@ -24,6 +23,8 @@ be *committed*, and tracked files needs to be added by ```git add```.
 These are the only commands I would recommend using on the command line/IDE, 
 for more complex commands (such as creating pull requests for merging branches) 
 use the web interface. 
+
+![Image of Git Workflow](https://hackernoon.com/hn-images/1*mQdKYVN0nl-NvTw6MOSkWA.png)
 
 # Best Practices
 
@@ -54,6 +55,8 @@ go wrong).
 
 3. Handy commands
 
+```git config --global user.name <display name>``` - sets your name on your commits to the repo
+
 ```git clone <path/to/directory>``` - clones a local copy of the repo to your
 machine so you can make changes.
 
@@ -70,8 +73,10 @@ easier to backtrack (**Not** ```Add new file```)
 
 ```git push origin <name of branch>``` - push your local commits to the remote 
 repo on the named branch. Note that on the first push git may require you to 
-set the upstream branch with the flag ```--set-upstream-to```
+set the upstream branch with ```git branch --set-upstream-to <name of head branch>```
 
+```git remote update origin --prune``` - updates branches and removes merged branches 
+on your local machine.
 
 # Tasks
 
