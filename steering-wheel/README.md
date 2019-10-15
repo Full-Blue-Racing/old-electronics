@@ -1,4 +1,4 @@
-# Steering Wheel LEDs: Ashley?
+# Steering Wheel LEDs: Ashley & Antonis?
 
 On the steering wheel we have rpm LEDs and indicator LEDs, previously
 they were fixed colour LEDs and each one had its own pin on the arduino to 
