@@ -37,7 +37,7 @@ them in a strip for the purposes of developing them into code.
     - Above 12500 ALL the LEDs flash blue (note do this via interrupts, 
       never use delays if possible)
 
-# Steering Wheel Screen 1: (Insert Name here)
+# Steering Wheel Screen: (Insert Name 1 & Name 2 & Name 3 here)
 
 previously we used a screen driven directly via an arduino nano. The problem
 was that the arduino was 8-Bit so this meant it lacked the speed to update the
@@ -86,3 +86,23 @@ steering wheel that is pulling data off the CAN bus.
     - Simply display an image on the screen, if possible a GIF or most desirably
       a Video
 
+# Steering Wheel PCB: (Insert name here)
+
+We need to connect all these components together on the steering wheel. This
+will require a complex (multi-layer) PCB to connect them together. This will 
+require CAD skills as well. 
+
+## Functional requirements (To do):
+
+1. Get a full spec list of everything to connect together:
+    - Schematics for connections
+    - CAD models of each component
+
+2. Design a multi-layer PCB:
+    - Will need to design as seperate projects in KiCad
+    - Have to consider layout of LEDs and buttons (need to choose buttons)
+    - We want to be able to modify the code on the device so make it possibe to access programming ports/ add external connector
+    - Include mounting holes and design how it is supposed to be assembled together
+
+3. Produce an accurate CAD model of each of the parts and an assembly of the whole thing together
+    - !!!No incomplete constraints!!!
