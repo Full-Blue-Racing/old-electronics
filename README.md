@@ -7,6 +7,8 @@ wheel, telemetry, and CAN bus files.
 
 [Git Crash Course](https://rogerdudler.github.io/git-guide/)
 
+[Gitlab SSH setup](https://docs.gitlab.com/ee/ssh/)
+
 Git can be separated into remote and local repository (repo), how it works is 
 that you can *clone* a repo to your local machine, *add* files you would like 
 git to track, *commit* your changes to your local branch, *pull* changes by 
