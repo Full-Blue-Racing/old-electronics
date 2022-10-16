@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Loom.kicad_pro",
+    "filename": "Loom23_detailed.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -390,11 +390,11 @@
       "BSPD"
     ],
     [
-      "6d389897-ea84-4330-a15e-a000af381e9f",
+      "5686cdb9-4b26-4c9a-b9dd-0a41977a8d75",
       "Ride height sensors (4x)"
     ],
     [
-      "6db895dc-c666-4f3e-8101-88c1f38f5be1",
+      "893d034b-5e7b-449a-8d64-c5dd8cd1d47b",
       "Telemetry"
     ]
   ],
