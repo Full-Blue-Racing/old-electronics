@@ -410,12 +410,24 @@
       "Injector2"
     ],
     [
+      "5f356ee4-2f55-4568-bea5-9cb4ed0e6321",
+      "Fuel Pump"
+    ],
+    [
       "c55b9370-9a95-40b8-b920-f700473b8b2f",
       "Injector3"
     ],
     [
+      "96832332-808a-4ccd-a8cc-425e875d6301",
+      "TPS (BSPD)"
+    ],
+    [
       "2b7f8e42-26b3-485b-897d-33f815bda7a2",
       "Injector4"
+    ],
+    [
+      "a71cac18-d442-41d8-97fb-21b0f87e2ea9",
+      "BPS"
     ]
   ],
   "text_variables": {}
