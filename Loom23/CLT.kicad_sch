@@ -139,7 +139,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 321557e7-965d-4ef8-a060-7d9feadcaf90)
     (property "Reference" "TH?" (id 0) (at 141.2875 87.63 90))
-    (property "Value" "" (id 1) (at 141.2875 90.17 90))
+    (property "Value" "Thermistor_NTC" (id 1) (at 141.2875 90.17 90))
     (property "Footprint" "" (id 2) (at 139.7 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )

@@ -99,7 +99,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f92a5ebb-cbb2-4780-a088-2d7074084099)
     (property "Reference" "RV?" (id 0) (at 163.83 85.09 90))
-    (property "Value" "" (id 1) (at 163.83 87.63 90))
+    (property "Value" "R_Potentiometer" (id 1) (at 163.83 87.63 90))
     (property "Footprint" "" (id 2) (at 163.83 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )

@@ -396,6 +396,26 @@
     [
       "893d034b-5e7b-449a-8d64-c5dd8cd1d47b",
       "Telemetry"
+    ],
+    [
+      "1d4732f1-f7ed-413e-8ddf-5b2c37a3c5df",
+      "Injector1"
+    ],
+    [
+      "a655e90c-85b5-46df-aa47-8693253a1546",
+      "Ignition"
+    ],
+    [
+      "6d5f3c99-ce1d-4951-a29e-45ba63db9055",
+      "Injector2"
+    ],
+    [
+      "c55b9370-9a95-40b8-b920-f700473b8b2f",
+      "Injector3"
+    ],
+    [
+      "2b7f8e42-26b3-485b-897d-33f815bda7a2",
+      "Injector4"
     ]
   ],
   "text_variables": {}
