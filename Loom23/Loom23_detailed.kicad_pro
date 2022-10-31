@@ -371,7 +371,7 @@
     ],
     [
       "89b578bc-4310-425a-b6ad-a1cbfaac89a7",
-      "Starter relay and switch"
+      "Starter relay"
     ],
     [
       "2eac7b5d-3d4a-4307-9701-7803ca4544f6",
@@ -428,6 +428,10 @@
     [
       "a71cac18-d442-41d8-97fb-21b0f87e2ea9",
       "BPS"
+    ],
+    [
+      "8ce0193e-777c-4ac0-85fb-fbcfe7496225",
+      "Crank sensor"
     ]
   ],
   "text_variables": {}
