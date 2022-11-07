@@ -88,6 +88,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 22f4dd3e-9289-4e50-b782-25ef337ced5f)
   )
+  (text "Do NOT connect the LAMBDA GND to the Sensor ground of the ECU, this is a high current ground!"
+    (at 177.8 111.76 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 50b773f7-4934-4661-9a6a-13ca774186a9)
+  )
   (text "This whole sheet needs to be checked." (at 29.21 34.29 0)
     (effects (font (size 7 7)) (justify left bottom))
     (uuid 7d46a852-5140-417a-b4e7-6fd43aaf7f9f)
