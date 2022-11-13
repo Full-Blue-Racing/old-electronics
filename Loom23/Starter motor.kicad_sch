@@ -7,4 +7,13 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "GND" (shape input) (at 124.46 54.61 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 6e657789-7b0e-45b4-8d53-5ec96dfda232)
+  )
+  (hierarchical_label "+12V" (shape input) (at 124.46 52.07 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b7886693-052a-456c-857e-78e58985c8fd)
+  )
 )

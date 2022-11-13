@@ -444,16 +444,12 @@
       "Oil pressure sensor"
     ],
     [
-      "e1620951-9d98-41ba-b2b5-5cbf0e9020d4",
-      "Wheel speed sensors (4x)"
-    ],
-    [
       "31af8776-e20e-4678-af96-7d5469953b0e",
       "Dash Arduino and screen"
     ],
     [
       "eca65766-c701-48ec-8273-3dc6cfc8bc7f",
-      "RPM LEDs"
+      "RPM LEDs and wheel buttons"
     ],
     [
       "7b0f0b05-0256-463a-ae57-e387aefb1021",
@@ -538,6 +534,10 @@
     [
       "c356f07d-d30a-4507-8903-8d46e554beb0",
       "Cooling fan (left)"
+    ],
+    [
+      "1d27a9e1-a99a-46d7-b2ea-46112bae4d76",
+      "Dash Break-out-board"
     ],
     [
       "454df199-e992-461e-8c3c-2e50adb28e4c",
