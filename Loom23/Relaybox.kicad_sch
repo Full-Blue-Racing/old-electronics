@@ -8,7 +8,6 @@
   )
 
 
-
   (polyline (pts (xy 152.4 105.41) (xy 99.06 105.41))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 10119b38-9115-41f6-a86c-bb8fe9578ae1)

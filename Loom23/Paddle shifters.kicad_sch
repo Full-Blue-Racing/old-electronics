@@ -8,7 +8,6 @@
   )
 
 
-
   (hierarchical_label "Paddle shift neutral" (shape input) (at 104.14 95.25 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 01caa876-b983-4d58-8d43-5a283704aafc)

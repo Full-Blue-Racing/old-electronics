@@ -1808,7 +1808,6 @@
     )
   )
 
-
   (junction (at 189.23 138.43) (diameter 0) (color 0 0 0 0)
     (uuid 05d304bd-fb1c-47e9-a8b3-a38143c2554e)
   )
@@ -2715,7 +2714,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2e0188f6-e08e-4898-90b7-56a8f6342a95)
   )
-  (hierarchical_label "Shutdown2" (shape input) (at 370.84 115.57 90)
+  (hierarchical_label "ShutdownNO" (shape input) (at 370.84 115.57 90)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 42fceca1-39a8-4543-a9c2-341caf53404a)
   )
@@ -2727,7 +2726,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6566baff-253e-42a5-98af-acd134f055a1)
   )
-  (hierarchical_label "Shutdown1" (shape input) (at 368.3 120.65 90)
+  (hierarchical_label "ShutdownC" (shape input) (at 368.3 120.65 90)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6c74e37f-f992-47e1-aaf9-10e62cf09d5e)
   )
