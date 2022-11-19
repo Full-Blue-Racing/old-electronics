@@ -201,7 +201,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid cbd5dae7-427c-4a15-b541-f7c644b7e330)
   )
-  (hierarchical_label "DASH GNG" (shape input) (at 146.05 72.39 90)
+  (hierarchical_label "DASH GND" (shape input) (at 146.05 72.39 90)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid da03f018-9a42-4b45-92ed-85eb381d95cb)
   )
