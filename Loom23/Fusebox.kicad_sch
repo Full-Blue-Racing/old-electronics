@@ -160,6 +160,11 @@
     (uuid f6467245-d7a1-4b40-88d1-7f020fe92f8b)
   )
 
+  (text "(FP+INJ+SPK+LAMBDA+FANS)" (at 95.25 81.28 0)
+    (effects (font (size 0.5 0.5)) (justify left bottom))
+    (uuid e7036d92-de9d-43a7-9ccb-99c995d58683)
+  )
+
   (hierarchical_label "Relays injectors" (shape input) (at 132.08 67.31 90)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 008ac6c2-584f-4a4e-9f6f-ce3df9550906)
@@ -348,7 +353,7 @@
     (property "Reference" "F?" (id 0) (at 95.25 76.1999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "20A (FP+INJ)" (id 1) (at 95.25 78.7399 0)
+    (property "Value" "50A" (id 1) (at 95.25 78.7399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 90.932 77.47 90)

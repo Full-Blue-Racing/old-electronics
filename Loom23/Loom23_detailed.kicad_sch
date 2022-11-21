@@ -3857,7 +3857,7 @@
       (reference "F?") (unit 1) (value "10A (Fuel pump)") (footprint "")
     )
     (path "/0b39daa2-9761-477c-a0eb-32cece2dad91/d60ed02e-ae7a-4f8b-8a28-a9d8a7970898"
-      (reference "F?") (unit 1) (value "20A (FP+INJ)") (footprint "")
+      (reference "F?") (unit 1) (value "50A") (footprint "")
     )
     (path "/10890e7c-b700-45d3-80f8-41487eb0e501/f27de1f9-d431-4534-ae0d-36476c782bd9"
       (reference "J1") (unit 1) (value "Test Pad") (footprint "Additional Footprints:TestPad")
