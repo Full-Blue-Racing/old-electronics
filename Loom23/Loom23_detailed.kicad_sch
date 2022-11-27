@@ -3848,7 +3848,7 @@
       (reference "F?") (unit 1) (value "Fuse") (footprint "")
     )
     (path "/0b39daa2-9761-477c-a0eb-32cece2dad91/b123a206-a063-49e4-8e6c-c4956dbb63c6"
-      (reference "F?") (unit 1) (value "TBD A (Spark)") (footprint "")
+      (reference "F?") (unit 1) (value "20A (Spark)") (footprint "")
     )
     (path "/0b39daa2-9761-477c-a0eb-32cece2dad91/be1bb14c-9400-41ef-be83-aa5b77cc5a69"
       (reference "F?") (unit 1) (value "30A (Our circuits)") (footprint "")
