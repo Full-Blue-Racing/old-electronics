@@ -448,6 +448,10 @@
       "Dash Arduino and screen"
     ],
     [
+      "a2c00e91-752b-4e31-8738-ffa3bd834bc1",
+      "CAN"
+    ],
+    [
       "eca65766-c701-48ec-8273-3dc6cfc8bc7f",
       "RPM LEDs and wheel buttons"
     ],
@@ -542,6 +546,10 @@
     [
       "454df199-e992-461e-8c3c-2e50adb28e4c",
       "Cam sensor"
+    ],
+    [
+      "2fdcdd11-a609-4508-a6c1-204f8ffdd716",
+      "Gearbox pneumatics"
     ]
   ],
   "text_variables": {}
