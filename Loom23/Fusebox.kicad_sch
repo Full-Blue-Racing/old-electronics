@@ -386,7 +386,7 @@
     (property "Reference" "F?" (id 0) (at 215.9 76.1999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "20A (Spark)" (id 1) (at 215.9 78.7399 0)
+    (property "Value" "TBD A (Spark)" (id 1) (at 215.9 78.7399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 211.582 77.47 90)

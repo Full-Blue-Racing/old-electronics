@@ -346,20 +346,16 @@
       "Lambda sensor"
     ],
     [
-      "e3f56734-e397-4653-8e05-214ed238cb53",
-      "Oil pressure sensor"
-    ],
-    [
-      "e1620951-9d98-41ba-b2b5-5cbf0e9020d4",
-      "Wheel speed sensors (4x)"
-    ],
-    [
       "31af8776-e20e-4678-af96-7d5469953b0e",
       "Dash Arduino and screen"
     ],
     [
       "eca65766-c701-48ec-8273-3dc6cfc8bc7f",
       "RPM LEDs"
+    ],
+    [
+      "a2c00e91-752b-4e31-8738-ffa3bd834bc1",
+      "CAN"
     ],
     [
       "7b0f0b05-0256-463a-ae57-e387aefb1021",
@@ -388,14 +384,6 @@
     [
       "10890e7c-b700-45d3-80f8-41487eb0e501",
       "BSPD"
-    ],
-    [
-      "6d389897-ea84-4330-a15e-a000af381e9f",
-      "Ride height sensors (4x)"
-    ],
-    [
-      "6db895dc-c666-4f3e-8101-88c1f38f5be1",
-      "Telemetry"
     ]
   ],
   "text_variables": {}
